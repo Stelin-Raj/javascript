@@ -19,6 +19,7 @@ let formValidation = () => {
         msg.innerHTML = "";
         acceptData();
     }
+
 };
 
 let data = {};
